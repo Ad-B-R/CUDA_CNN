@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+
+*.so
+
+data/
+checkpoints/
+*.pt
+*.pth
+
+.vscode/
