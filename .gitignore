@@ -8,5 +8,9 @@ data/
 checkpoints/
 *.pt
 *.pth
+*.pyd
 
 .vscode/
+build/
+*.pyd
+*.egg-info/
